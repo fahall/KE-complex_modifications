@@ -271,13 +271,7 @@
 							]
 						}
 					]
-				}
-			]
-		},
-		{
-			"description": "Ctrl -> Gui in Jetbrains Rider",
-			"manipulators":
-			[
+				},
 				{
 					"type": "basic",
 					"from":
@@ -308,8 +302,8 @@
 						}
 					]
 				}
-			]
-		}
+				]
+				}
 
 	]
 }
